@@ -1,0 +1,8 @@
+.weui-panel,
+.weui-panel_access {
+    margin-bottom: 50px;
+}
+
+:global(.weui-panel) {
+    margin-bottom: 50px;
+}
